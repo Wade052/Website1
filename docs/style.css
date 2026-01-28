@@ -1,0 +1,57 @@
+h1{
+  display: flex;
+  justify-content: center;
+  margin-bottom: -5px;
+}
+
+h2{
+  display: flex;
+  font-size: 19px;
+  justify-content: center;
+  border-bottom: solid;
+}
+
+h3{
+  display: flex;
+  font-size: 18px;
+  
+}
+
+h4{
+  display: flex;
+  font-size: 19px;
+  border-bottom: solid;
+  margin-Top: -1px;
+  justify-content: center;
+}
+
+h5{
+  display: flex;
+  border-left: dotted;
+  font-size: 23px;
+  margin: 5px;
+  padding-left: 12px;
+  
+}
+
+h6{
+  display: flex;
+  font-size: 19px;
+  border-bottom: solid;
+  margin-Top: -1px;
+  justify-content: center;
+}
+
+.Projects{
+  display: flex;
+  border-left: dotted;
+  font-size: 23px;
+  margin: 5px;
+  padding-left: 12px;
+  color: darkblue;
+}
+
+
+Body{
+  background-color: Grey;
+}
